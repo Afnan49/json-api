@@ -6,6 +6,13 @@
       "LastName": "Mahmoud",
       "email": "afnan@gmail.com",
       "password": "afnan@123"
+    },
+    {
+      "id": "7aee",
+      "FirstName": "Ahmed",
+      "LastName": "Mahmoud",
+      "email": "ahmed@gmail.com",
+      "password": "ahmed@123"
     }
   ],
   "products": [
