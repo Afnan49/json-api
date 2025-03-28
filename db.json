@@ -1,0 +1,147 @@
+{
+  "users": [
+    {
+      "id": "4443",
+      "FirstName": "Afnan",
+      "LastName": "Mahmoud",
+      "email": "afnan@gmail.com",
+      "password": "afnan@123"
+    },
+    {
+      "id": "7aee",
+      "FirstName": "Ahmed",
+      "LastName": "Mahmoud",
+      "email": "ahmed@gmail.com",
+      "password": "ahmed@123"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "stock": 20,
+      "price": 17000,
+      "priceAfterDiscount": 14499,
+      "rating": 3,
+      "reviews": 120,
+      "lastUpdated": "2024-01-02",
+      "description": "Android Smartphone, Dual SIM Mobile Phone, 8GB RAM, 128GB Storage, Awesome Lemon -1 Year Warranty/Local Version",
+      "thumbnail": "https://i.ibb.co/d0KCLnNk/smartphone.webp",
+      "images": [
+        "https://i.ibb.co/d0KCLnNk/smartphone.webp",
+        "https://i.ibb.co/pv7nprkK/smartphone2.webp",
+        "https://i.ibb.co/p6r28t4G/smartphone3.webp",
+        "https://i.ibb.co/3mVHkLpd/smartphone4.webp",
+        "https://i.ibb.co/8LDvZFzm/smartphone5.webp",
+        "https://i.ibb.co/kgbVfY1V/smartphone6.webp"
+      ],
+      "features": [
+        "Industry-leading noise cancellation",
+        "30-hour battery life",
+        "Touch sensor controls",
+        "Speak-to-chat technology"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Tablet",
+      "category": "Electronics",
+      "stock": 30,
+      "price": 10000,
+      "rating": 3,
+      "reviews": 100,
+      "description": "Tablet, 10.1 inch, 128GB Storage, 4GB RAM, Awesome Lemon -1 Year Warranty/Local Version",
+      "lastUpdated": "2024-01-03",
+      "thumbnail": "https://i.ibb.co/ksr5dsZ5/tablet.webp",
+      "images": [
+        "https://i.ibb.co/ksr5dsZ5/tablet.webp",
+        "https://i.ibb.co/3m5G6XNB/tablet1.webp",
+        "https://i.ibb.co/wNPzqMYw/tablet2.webp",
+        "https://i.ibb.co/2YfhBxtr/tablet3.webp"
+      ],
+      "features": [
+        "Industry-leading noise cancellation",
+        "30-hour battery life",
+        "Touch sensor controls",
+        "Speak-to-chat technology"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Mouse",
+      "category": "Accessories",
+      "stock": 30,
+      "price": 10000,
+      "priceAfterDiscount": 8000,
+      "rating": 2,
+      "reviews": 100,
+      "description": "Mouse, 10.1 inch, 128GB Storage, 4GB RAM, Awesome Lemon -1 Year Warranty/Local Version",
+      "lastUpdated": "2024-01-03",
+      "thumbnail": "https://i.ibb.co/s9hf453z/mouse.webp",
+      "images": [
+        "https://i.ibb.co/s9hf453z/mouse.webp",
+        "https://i.ibb.co/yFcR2FML/mouse1.webp",
+        "https://i.ibb.co/vC69W3dL/mouse2.webp",
+        "https://i.ibb.co/Mk1f2jNH/mouse3.webp",
+        "https://i.ibb.co/MxgdR5wR/mouse5.webp"
+      ],
+      "features": [
+        "Industry-leading noise cancellation",
+        "30-hour battery life",
+        "Touch sensor controls",
+        "Speak-to-chat technology"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Monitor",
+      "category": "Electronics",
+      "stock": 50,
+      "price": 10000,
+      "rating": 4,
+      "reviews": 100,
+      "description": "Monitor, 10.1 inch, 128GB Storage, 4GB RAM, Awesome Lemon -1 Year Warranty/Local Version",
+      "lastUpdated": "2024-01-05",
+      "thumbnail": "https://i.ibb.co/S4B77J45/monitor.webp",
+      "images": [
+        "https://i.ibb.co/S4B77J45/monitor.webp",
+        "https://i.ibb.co/WN59Skht/monitor1.webp",
+        "https://i.ibb.co/ZRnBbYL5/monitor3.webp",
+        "https://i.ibb.co/6JbV8kPn/monitor4.webp"
+      ],
+      "features": [
+        "Industry-leading noise cancellation",
+        "30-hour battery life",
+        "Touch sensor controls",
+        "Speak-to-chat technology"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Laptop",
+      "category": "Electronics",
+      "stock": 10,
+      "price": 10000,
+      "priceAfterDiscount": 8000,
+      "rating": 5,
+      "reviews": 100,
+      "description": "Laptop, 10.1 inch, 128GB Storage, 4GB RAM, Awesome Lemon -1 Year Warranty/Local Version",
+      "lastUpdated": "2024-01-01",
+      "thumbnail": "https://i.ibb.co/JRyBdLq0/lap.webp",
+      "images": [
+        "https://i.ibb.co/JRyBdLq0/lap.webp",
+        "https://i.ibb.co/Y4Z2Y5gr/lap1.webp",
+        "https://i.ibb.co/HfjwMC4p/lap2.webp",
+        "https://i.ibb.co/vCrqRNpR/lap3.webp",
+        "https://i.ibb.co/tPwWc4GQ/lap4.webp"
+      ],
+      "features": [
+        "Industry-leading noise cancellation",
+        "30-hour battery life",
+        "Touch sensor controls",
+        "Speak-to-chat technology"
+      ]
+    }
+  ]
+}
